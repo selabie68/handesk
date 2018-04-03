@@ -11,9 +11,10 @@ return [
     | has failed, such as for an invalid token or invalid new password.
     |
     */
-    'password' => 'Les mots de passe doivent contenir au moins six caractères et être identiques.',
-    'reset'    => 'Votre mot de passe a été réinitialisé !',
-    'sent'     => 'Nous vous avons envoyé par courriel le lien de réinitialisation du mot de passe !',
-    'token'    => "Ce jeton de réinitialisation du mot de passe n'est pas valide.",
-    'user'     => "Aucun utilisateur n'a été trouvé avec cette adresse courriel.",
+
+    'password' => 'Wachtwoord moet minimaal zes tekens lang zijn en de wachtwoorden moeten overeenkomen.',
+    'reset'    => 'Het wachtwoord van uw account is gewijzigd.',
+    'sent'     => 'We hebben een e-mail verstuurd met instructies om een nieuw wachtwoord in te stellen.',
+    'token'    => 'Dit wachtwoordhersteltoken is niet geldig.',
+    'user'     => 'Geen gebruiker bekend met het e-mailadres.',
 ];
